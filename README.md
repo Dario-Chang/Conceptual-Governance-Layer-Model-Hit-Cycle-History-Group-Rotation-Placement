@@ -24,11 +24,9 @@ This functional scope applies regardless of the underlying computational archite
 ## Technical Neutrality
 This disclosure is agnostic to implementation details, execution environments, and system architectures. The conceptual logic applies universally across all platforms, technologies, and computational substrates. No specific technical embodiment is required or implied.
 
-## Non‑Enabling Disclaimer
-This publication provides a high‑level conceptual taxonomy. It intentionally excludes:
+Scope of Conceptual Disclosure
 
-- Threshold values, decay functions, convergence criteria, or weighting parameters.
-- Data schemas, optimization strategies, or system‑level protocols.
+This publication establishes the complete architectural and topological framework for the governance‑layer substrate. It explicitly defines the interactions, state transitions, and conceptual boundaries of the system. To protect proprietary trade secrets, this document omits localized execution mechanics (e.g., specific algorithms, dynamic weighting functions, and cryptographic token schemas). This disclosure establishes the state of the art for the architecture itself, independent of any specific computational embodiment.evel protocols.
 - Interfaces, APIs, or any operational mechanisms.
 
 A person having ordinary skill in the art cannot derive a functional system from this text alone. Any attempt to construct an operational implementation remains speculative. All functional, algorithmic, and proprietary embodiments remain the intellectual property of the author.
